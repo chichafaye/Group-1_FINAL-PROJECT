@@ -6,4 +6,4 @@ GROUP 1:
 |Salinas, Alois L.
 |Villagonzalo, Jayme R.
 |Villahermosa, Maria Louisa
-|Yago, Maximillian R.
+|Yago, Maximilian R.
